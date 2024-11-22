@@ -1,0 +1,9 @@
+body{text-align: center;background-image:url(https://static.mk.ru/upload/entities/2019/11/25/15/articles/detailPicture/5a/94/68/16/48ee705d08bda7876ba0950773f81e1c.jpg) ; background-size: cover;}
+ nav{background-color: rgb(177, 216, 231)}
+ .center{background-color: aliceblue;height: 1700px; width:800px ; margin-left: 25%;}
+ .sec{border: 5px solid;height: 400px;}
+ .img1{float: left;}
+ p{float: left;}
+ a{background-color: aliceblue}
+ .cones{background-color: aliceblue;height: 20px; width:500px ;margin-left: 35%;}
+ .fix{position: fixed;}
